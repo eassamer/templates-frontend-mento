@@ -9,3 +9,12 @@
   font-family: "Figtree", sans-serif;
   font-optical-sizing: auto;
 }
+
+
+.test {
+  font-size: larger;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
